@@ -2,7 +2,7 @@
  
 ===============================================================================================================
 =======
- Name        : EX1_C_Program_To_Print_Sentence.c
+ Name        : EX2_C Program to Print a Integer Entered by a User.c
  Author      : Basem Said
  Created on	 : May 14, 2023
  Description : Unit 2 >> Assignment >> EX2 C Program to Print a Integer Entered by a User using Ansi-style (c89)
